@@ -4,7 +4,7 @@
 # 2. Строка 51. Add_info(HistoryPerson) -> HistoryPerson(Person)
 # 3. Строка 114. My_list -> Sequence
 # 4. Строка 171. CurrencyClass -> Currency
-# 5. Строки 196 и 218. EURClass -> EUR; USDClass -> USD
+# 5. Строки 196 и 218. EURClass -> EUR_to_RUB; USDClass -> USD_to_RUB
 # 3.2. Улучшите семь имён методов и объектов по схеме из пункта 2.
 # 1. Строка 75. gainCountry -> getCountry
 # 2. Строка 77. gainAge -> getAge
